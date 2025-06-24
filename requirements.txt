@@ -1,4 +1,5 @@
 streamlit
+PyMuPDF
 matplotlib
 scikit-learn
 pytesseract
@@ -8,4 +9,3 @@ transformers
 sentence-transformers
 keybert
 spacy
-pymupdf
