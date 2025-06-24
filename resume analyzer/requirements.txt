@@ -1,0 +1,8 @@
+streamlit
+spacy
+keybert
+matplotlib
+PyMuPDF
+pytesseract
+transformers
+scikit-learn
