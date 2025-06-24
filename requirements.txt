@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+scikit-learn
+pytesseract
+pdf2image
+Pillow
+transformers
+sentence-transformers
+keybert
+spacy
