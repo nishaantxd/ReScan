@@ -3,7 +3,7 @@ import pytesseract
 import fitz  # PyMuPDF
 from PIL import Image
 import pytesseract
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = "/usr/bin/tesseract"
 
 
 def extract_text_from_pdf_or_image(uploaded_file):
