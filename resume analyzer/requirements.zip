@@ -1,8 +1,10 @@
 streamlit
-spacy
-keybert
 matplotlib
-PyMuPDF
-pytesseract
-transformers
 scikit-learn
+pytesseract
+pdf2image
+Pillow
+transformers
+sentence-transformers
+keybert
+spacy
